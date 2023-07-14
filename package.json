@@ -1,0 +1,15 @@
+{
+  "name": "eyes-pie-shut",
+  "version": "1.0.0",
+  "description": "A pi switch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-gpio": "^1.7.2",
+    "winston": "^3.10.0"
+  }
+}
